@@ -76,10 +76,10 @@ ol {
   font-style: italic;
 }
 
-dl dt {
-  font-weight: bold;
-}
-
 footer {
   font-size: 1.125rem;
+}
+
+dl dt {
+  font-weight: bold;
 }
